@@ -1,1 +1,1 @@
-https://Deus69.github.io/rsschool-cv/cv
+https://Deus69.github.io/rsschool-cv/
