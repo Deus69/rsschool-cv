@@ -4,4 +4,5 @@
 * email: xchrisovicx@mail.ru
  * Age: 18
  * City: Minks
- * Gender: Male
+ * Gender: Male 
+ <img src="img_pingv.jpg" alt="pingv" width="500" height="600">
