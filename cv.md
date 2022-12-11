@@ -5,4 +5,4 @@
  * Age: 18
  * City: Minks
  * Gender: Male 
- <img src="img_pingv.jpg" alt="pingv" width="500" height="600">
+ <img src="images/_pingv.jpg" alt="pingv" width="500" height="600">
